@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## 🚀 About Me
 - 🔭 I’m currently studying at [Singaperbangsa Karawang University](https://unsika.ac.id/).
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/roland-vincent-27528b156/)).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/roland-vincent-27528b156/).
 
 ## 📊 Stats
 <p align="left">
