@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 - 🔭 I’m currently studying at [Singaperbangsa Karawang University](https://unsika.ac.id/).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/roland-vincent-27528b156/).
-- 🏅 My Portfolio CV : https://rolandvincent.github.io/
+- 🏅 My Portfolio CV :[Portfolio Github](https://rolandvincent.github.io/).
 
 ## 📊 Stats
 <p align="left">
